@@ -45,8 +45,8 @@ const Footer = () => {
         </nav>
         <p className="pb-3 text-xs text-sh-grey">
           © Clonnerboxd Limited. Made by{' '}
-          <a className="underline" href="https://github.com/JanaIsCoding">
-            JanaIsCoding
+          <a className="underline" href="https://github.com/Kush-316">
+            Kush316
           </a>
           . Film data from{' '}
           <a className="underline" href="https://www.themoviedb.org/">
